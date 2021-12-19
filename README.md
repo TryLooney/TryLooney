@@ -1,7 +1,7 @@
 ## Oi! Luis Felipe aqui 😉
 
-- 🔭 Trabalhando atualmente em ... Apenas um estudante
-- ⚡ Apreciador de: ... JavaScript
+- 🔭 Trabalhando atualmente em.....Apenas um estudante
+- ⚡ Apreciador de.....JavaScript
 
  <div>
   <a href="https://github.com/LuisFera55">
