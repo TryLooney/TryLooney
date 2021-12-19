@@ -1,8 +1,7 @@
 ## Oi! Luis Felipe aqui 😉
 
-- 🔭 Trabalhando atualmente em ... Rede Dusty, Minecraft server
-- 😄 Pronomes: ... Ele/Dele
-- ⚡ Apreciador de: ... Pogramação
+- 🔭 Trabalhando atualmente em ... Apenas um estudante
+- ⚡ Apreciador de: ... JavaScript
 
  <div>
   <a href="https://github.com/LuisFera55">
