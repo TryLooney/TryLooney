@@ -16,7 +16,7 @@
   ##
  
 <div>
- <a href="https://discord.gg/Y79gUJS4nu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discordapp.com/users/940334206570090517" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/LuisFera55/LuisFera55/blob/output/github-contribution-grid-snake.svg)
  
