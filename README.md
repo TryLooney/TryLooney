@@ -1,7 +1,8 @@
-## Oi! Luis Felipe aqui 😉
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-- 🔭 Trabalhando atualmente em.....Apenas um estudante
-- ⚡ Apreciador de.....JavaScript
+## Welcome to my page 💫
+
+🤗 Hello, my name is Luis Felipe. I am passionate about technology and development.
 
  <div>
   <a href="https://github.com/LuisFera55">
