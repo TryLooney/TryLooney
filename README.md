@@ -21,7 +21,7 @@
   ##
  
 <div>
- <a href="https://discordapp.com/users/957308040158249010" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discordapp.com/users/398821637371199490" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/TryLooney/TryLooney/blob/output/github-contribution-grid-snake.svg)
  
