@@ -1,28 +1,37 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+# Olá, sou Luis Felipe 👋
 
-## Welcome to my page 💫
+**Desenvolvedor Web Full-Stack | Next.js | TypeScript | Bun | 17 anos**
 
-🤗 Hello, my name is Luis Felipe. I am passionate about technology and development.
+Especializado em criar aplicações web de alta performance usando as tecnologias mais modernas do mercado.
 
- <div>
-  <a href="https://github.com/TryLooney">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TryLooney&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TryLooney&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luis-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Luis-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Luis-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Luis-DiscordJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg">
-  <img align="center" alt="Luis-DiscordJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Luis-DiscordJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-</div>
-  
-  ##
- 
-<div>
- <a href="https://discordapp.com/users/398821637371199490" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/TryLooney/TryLooney/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+## 🚀 Tecnologias Principais
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-EF4444?style=flat&logo=react&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+## 💼 O Que Faço
+
+- 🎨 Desenvolvimento de interfaces modernas e responsivas
+- ⚡ APIs com tipagem forte (oRPC, tRPC)
+- 🗄️ Full-stack com Next.js, Bun e TypeScript
+- 📱 Aplicações web performáticas e escaláveis
+- 🎯 Soluções customizadas para clientes
+
+## 🟢 Disponibilidade
+
+**Disponível para projetos freelance** - Horário: 05h00 às 09h30
+
+## 📫 Contato
+
+- **Email**: contato@felipes.dev
+- **LinkedIn**: linkedin.com/in/felipesdev
+
+---
+
+_Programando desde os 12 anos | Trabalhando com clientes | Piracicaba, São Paulo, Brasil_
